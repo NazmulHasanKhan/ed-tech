@@ -1,0 +1,14 @@
+/* .extraMargin{
+    margin-left: 30em; 
+} */
+
+.added-font{
+    font-family: 'Kanit', sans-serif;
+}
+.cover-image{
+    filter: grayscale(50%);
+    filter: brightness(.5);
+}
+.default-font{
+    font-family: 'Fira Sans', sans-serif;
+}
